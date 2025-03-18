@@ -1,3 +1,7 @@
-# aula_01_1tdspo
-## My first repository
-Professor, eu te amo!
+
+1o - COMMIT
+# 🚀 Meu Repositório
+
+Olá, mundo! 👋
+
+Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
